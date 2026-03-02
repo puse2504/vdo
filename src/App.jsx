@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to React + Vite! ⚛️</h1>
+        <h1>Welcome to Second Commit ⚛️</h1>
         <p>Built with Eleven's Deployment Hub</p>
       </header>
       
